@@ -1,4 +1,4 @@
-## Boilerplate Repository - Challenge-21 - 
+## Boilerplate Repository - Challenge-21 - Sorting an array
 
 ### Instructions
 Refer the [PROBLEM.md](./PROBLEM.md) file for problem description.
